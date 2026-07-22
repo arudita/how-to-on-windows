@@ -1,4 +1,4 @@
-# Mengubah Informasi Metadata pada File di Windows
+# Mengubah Informasi Metadata pada File
 
 Anda sangat bisa mengubah informasi (yang sering disebut sebagai **metadata**) pada tab Details di Properties Windows. Namun, tingkat kemudahannya sangat bergantung pada jenis ekstensi file yang ingin Anda ubah.
 

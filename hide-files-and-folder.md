@@ -1,4 +1,4 @@
-# Cara Menyembunyikan File di Windows
+# Cara Menyembunyikan File
 
 ### 1. Mengubah Atribut Menjadi File Sistem (`System Hidden`)
 
