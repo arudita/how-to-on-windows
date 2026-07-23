@@ -6,6 +6,7 @@
 * [Cara Menyembunyikan File](./hide-files-and-folder.md)
 * [Cara Menyembunyikan File di Dalam Gambar (Steganography)](./steganography.md)
 * [Mengubah Informasi Metadata pada File](./metadata-properties-details.md)
+* [Obfuscation (Pengaburan Data/Script)](./obfuscation-base64.md)
 
 ### Author
 Fajar Setiawan, contact me on [Linkedin](https://id.linkedin.com/in/fajar-setiawan-617652167).
